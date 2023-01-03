@@ -26,6 +26,6 @@ public class Main {
         System.out.println(sum);
 
         System.out.println("규원이가 작업함");
-        
+
     }
 }
