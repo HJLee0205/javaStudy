@@ -24,5 +24,7 @@ public class Main {
 
         // 결과 출력
         System.out.println(sum);
+
+        System.out.println("희재가 작업함");
     }
 }
