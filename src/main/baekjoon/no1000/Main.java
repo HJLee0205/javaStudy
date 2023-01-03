@@ -24,5 +24,8 @@ public class Main {
 
         // 결과 출력
         System.out.println(sum);
+
+        System.out.println("규원이가 작업함");
+        
     }
 }
