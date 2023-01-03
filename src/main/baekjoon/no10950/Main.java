@@ -37,5 +37,7 @@ public class Main {
         for(int item : list) {
             System.out.println(item);
         }
+
+        System.out.println("수정");
     }
 }
